@@ -1,4 +1,3 @@
 Git is a version control system.
 Git is free software.
-readme 2.0
-readme 3.0
+/* 简单学生管理系统 + 简单HTTP服务器搭建 */
